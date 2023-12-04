@@ -1,0 +1,9 @@
+Source Program:
+
+var x, y
+begin
+	x := y * 2;
+end.
+
+
+ERROR: constant and variable declarations must be followed by a semicolon

@@ -1,0 +1,5 @@
+var x, y;
+begin
+while
+	x := y * 2;
+end.

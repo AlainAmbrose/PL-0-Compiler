@@ -1,0 +1,11 @@
+Source Program:
+
+var x, y;
+begin 
+  y := 3;
+  x := y + 56;
+if(x > y)
+end.
+
+
+ERROR: if must be followed by then

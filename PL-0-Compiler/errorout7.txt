@@ -1,0 +1,9 @@
+Source Program:
+
+var x, y;
+begin
+	d := y * 2;
+end.
+
+
+ERROR: undeclared identifier

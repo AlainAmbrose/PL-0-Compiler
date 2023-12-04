@@ -1,0 +1,11 @@
+Source Program:
+
+const d = 16;
+d = 12;
+var x, y;
+begin
+	x := y * 2;
+end.
+
+
+ERROR: only variable values may be altered

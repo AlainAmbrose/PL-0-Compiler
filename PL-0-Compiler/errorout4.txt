@@ -1,0 +1,10 @@
+Source Program:
+
+const n ! 12;
+var x, y;
+begin
+	x := y * 2;
+end.
+
+
+ERROR: constants must be assigned with =

@@ -1,0 +1,10 @@
+Source Program:
+
+var x, y;
+var x;
+begin
+	x := y * 2;
+end.
+
+
+ERROR: symbol name has already been declared

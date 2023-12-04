@@ -1,0 +1,10 @@
+Source Program:
+
+var x, y;
+begin
+while
+	x := y * 2;
+end.
+
+
+ERROR: while must be followed by do

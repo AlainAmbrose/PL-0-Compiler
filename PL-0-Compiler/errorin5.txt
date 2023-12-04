@@ -1,0 +1,5 @@
+const d = l;
+var x, y;
+begin
+	x := y * 2;
+end.

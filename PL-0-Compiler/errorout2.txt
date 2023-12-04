@@ -1,0 +1,10 @@
+Source Program:
+
+const + = 15;
+var x, y;
+begin
+	x := y * 2;
+end.
+
+
+ERROR: const, var, and read keywords must be followed by identifier

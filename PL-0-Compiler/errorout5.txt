@@ -1,0 +1,10 @@
+Source Program:
+
+const d = l;
+var x, y;
+begin
+	x := y * 2;
+end.
+
+
+ERROR: constants must be assigned an integer value

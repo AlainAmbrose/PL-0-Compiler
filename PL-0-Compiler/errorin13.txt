@@ -1,0 +1,6 @@
+var x, y;
+begin
+	x := y * 2;
+	if(x 5 y)
+	then
+end.
